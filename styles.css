@@ -1,0 +1,20 @@
+.body {
+    background-color: rgb(65, 65, 77);
+}
+
+.text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title {
+    color: rgb(30, 30, 40);
+    background-color: rgb(226, 226, 226);
+}
+
+.p {
+    color: rgb(226, 226, 226);
+}
+
+.link {
+    color: rgb(220, 150, 80);
+}
